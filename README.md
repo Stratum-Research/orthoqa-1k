@@ -10,17 +10,17 @@ tags:
 - synthetic-data
 - medical-nlp
 - healthcare
-pretty_name: orthoqa-1k: a larger structured synthetic dataset of orthopedic surgery q &a
+pretty_name: orthoqa-1k: a larger structured synthetic dataset of orthopedic surgery q&a
 size_categories:
 - 1K<n<10K
 ---
 
 <div align="center">
 
-<img src="config/assets/logo.png" alt="OrthoQA-1k: A larger structured Synthetic dataset of Orthopedic surgery Q &A Logo" height="150">
+<img src="config/assets/logo.png" alt="OrthoQA-1k: A larger structured synthetic dataset of orthopedic surgery Q&A Logo" height="150">
 
 <h1 align="center">
-    OrthoQA-1k: A larger structured Synthetic dataset of Orthopedic surgery Q &A
+    OrthoQA-1k: A larger structured synthetic dataset of orthopedic surgery Q&A
 </h1>
 
 <h3 align="center">
@@ -33,7 +33,7 @@ size_categories:
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-orange)]()
 
 
-<img src="config/assets/banner.png" alt="OrthoQA-1k: A larger structured Synthetic dataset of Orthopedic surgery Q &A Banner" width="100%" style="max-width: 800px;">
+<img src="config/assets/banner.png" alt="OrthoQA-1k: A larger structured synthetic dataset of orthopedic surgery Q&A Banner" width="100%" style="max-width: 800px;">
 
 </div>
 
@@ -48,7 +48,8 @@ size_categories:
 ## Description
 Ortho-1K is a synthetic, structured Q&A dataset generated
 using a templated prompt framework over GPT-3.5-turbo, designed 
-to support medical NLP research in orthopedic surgery. All content is fully synthetic and free of PHI. 
+to support medical NLP research in orthopedic surgery. 
+All content is fully synthetic and free of PHI. 
 This dataset enables rapid finetuning and benchmarking of 
 domain-specific language models for clinical decision support, 
 patient education, and surgical consultation use cases.
@@ -63,7 +64,7 @@ Contributions are welcome! Feel free to:
 ```bibtex
 @dataset{ridwan2025orthoqa1k:alargerstructuredsyntheticdatasetoforthopedicsurgeryq&adata,
   author = {Abdullah Ridwan},
-  title  = {OrthoQA-1k: A larger structured Synthetic dataset of Orthopedic surgery Q &A: A large, structured synthetic dataset for Orthopedic surgery question answering.},
+  title  = {OrthoQA-1k: A larger structured synthetic dataset of orthopedic surgery Q&A: A large, structured synthetic dataset for Orthopedic surgery question answering.},
   year   = {2025},
   url    = {},
   doi    = {},

@@ -3,13 +3,13 @@ version: "1.0"
 published: "2025-06-16"
 tagline: "A large, structured synthetic dataset for Orthopedic surgery question answering."
 description: |
-        Ortho-1K is a synthetic, structured Q&A dataset generated
-        using a templated prompt framework over GPT-3.5-turbo, designed 
-        to support medical NLP research in orthopedic surgery. 
-        All content is fully synthetic and free of PHI. 
-        This dataset enables rapid finetuning and benchmarking of 
-        domain-specific language models for clinical decision support, 
-        patient education, and surgical consultation use cases.
+  Ortho-1K is a synthetic, structured Q&A dataset generated
+  using a templated prompt framework over GPT-3.5-turbo, designed 
+  to support medical NLP research in orthopedic surgery. 
+  All content is fully synthetic and free of PHI. 
+  This dataset enables rapid finetuning and benchmarking of 
+  domain-specific language models for clinical decision support, 
+  patient education, and surgical consultation use cases.
 doi: ""
 
 # metadata for HuggingFace/README  
