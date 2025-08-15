@@ -1,5 +1,5 @@
 ---
-license: mit
+license: Apache License 2.0
 language:
 - en
 tags:
@@ -27,19 +27,19 @@ size_categories:
     An academic resource for advancing research in orthopedic surgery question answering and medical NLP.
 </h3>
 
-[![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE.md)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Version](https://img.shields.io/badge/release-1.0-green)
 [![DOI](https://img.shields.io/badge/DOI--yellow)](https://doi.org/)
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-orange)]()
 
 
-<img src="config/assets/banner.png" alt="OrthoQA-1k - A larger structured synthetic dataset of orthopedic surgery Q&A Banner" width="100%" style="max-width: 800px;">
+<img src="config/assets/banner_white.png" alt="OrthoQA-1k - A larger structured synthetic dataset of orthopedic surgery Q&A Banner" width="100%" style="max-width: 800px;">
 
 </div>
 
 - **Version:** 1.0  
 - **Published:** 2025-06-16  
-- **License:** MIT
+- **License:** Apache License 2.0
 - **DOI:** [here]()
 - **Hugging Face link** [here]()
 - **Zenodo link** [here]()
