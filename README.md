@@ -33,7 +33,7 @@ size_categories:
 [![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Datasets-orange)]()
 
 
-<img src="config/assets/banner_white.png" alt="OrthoQA-1k - A larger structured synthetic dataset of orthopedic surgery Q&A Banner" width="100%" style="max-width: 800px;">
+<img src="config/assets/Banner.png" alt="OrthoQA-1k - A larger structured synthetic dataset of orthopedic surgery Q&A Banner" width="100%" style="max-width: 800px;">
 
 </div>
 
